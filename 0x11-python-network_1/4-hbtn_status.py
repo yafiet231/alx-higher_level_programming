@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-requests model
+A Python script that
+-fetches https://alx-intranet.hbtn.io/status
 """
 
 if __name__ == '__main__':
