@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""A script that
-- fetches https://alx-intranet.hbtn.io/status.
+"""
+A script that fetches https://alx-intranet.hbtn.io/status.
 - uses urlib package
 """
 
